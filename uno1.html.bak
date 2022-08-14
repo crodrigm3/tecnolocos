@@ -6,8 +6,6 @@
 	<body>
 		<p>Este parrafo va al comienzo</p>
 		<hr />
-		<p>Este parrafo va al mitad</p>
-		<hr />
 
 		<hr />
 		<p>Este parrafo va al final </p>
