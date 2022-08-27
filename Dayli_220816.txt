@@ -1,5 +1,23 @@
+<<<<<<< HEAD
 Que hice
 
 Que voy a hacer
 
 Problemas
+=======
+Que hice
+- Cree el archivo
+Que voy a hacer
+- Otro archivo
+Problemas
+- Nunguno
+
+
+Jesús:
+¿Qué hice hoy?
+- Edité el archivo
+¿Qué voy a hacer?
+- Estudiar Git y GitHub
+Problemas:
+- Ninguno
+>>>>>>> dc8d8ca31bc6d31f7a2e2296611e5c7aa75ef7bb
